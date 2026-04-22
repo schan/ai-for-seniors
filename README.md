@@ -15,6 +15,7 @@ The folders are numbered to guide you through a natural learning path. Click on 
 
 ### 02 Everyday Help
 *   [Daily Help](./02_Everyday_Help/Daily_Help.md): Simple ways to handle emails, news, and chores.
+*   [News](./02_Everyday_Help/News.md): How to stay informed and check if a story is true.
 *   [Shopping](./02_Everyday_Help/Shopping.md): How to find the best prices and organize your grocery lists.
 *   [Travel](./02_Everyday_Help/Travel.md): Planning trips and exploring new cities with ease.
 
