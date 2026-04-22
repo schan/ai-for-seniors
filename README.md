@@ -23,6 +23,7 @@ The folders are numbered to guide you through a natural learning path. Click on 
 *   [Photo](./03_Hobbies_and_Learning/Photo.md): Using "visual intelligence" to identify objects and read small print.
 *   [Creativate](./03_Hobbies_and_Learning/Creativate.md): Making your own art, music, and stories.
 *   [Languages](./03_Hobbies_and_Learning/Languages.md): Translating words and keeping your mind sharp with new languages.
+*   [Fun](./03_Hobbies_and_Learning/Fun.md): Games, riddles, and laughter to brighten your day.
 
 ### 04 Health & Spirit
 *   [Health](./04_Health_and_Spirit/Health.md): Understanding medical terms and organizing your wellness.
